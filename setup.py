@@ -7,6 +7,6 @@ setup(
     version='0.0.1',
     author='Farhan Mujawar',
     author_email='farhanmujawar0711@gmail.com',
-    install_requires=["openai","langchain","streamlit","python-dotenv","PyPDF2"],
+    install_requires=["openai","langchain","huggingface_hub","streamlit","python-dotenv","sentence-transformers","langgraph","jinja2","tavily-python"],
     packages=find_packages()
 )

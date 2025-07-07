@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: skillmate
+Version: 0.0.1
+Author: Farhan Mujawar
+Author-email: farhanmujawar0711@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: huggingface_hub
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers
+Requires-Dist: langgraph
+Requires-Dist: jinja2
+Requires-Dist: tavily-python
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

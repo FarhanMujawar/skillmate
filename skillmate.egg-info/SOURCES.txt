@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+skillmate.egg-info/PKG-INFO
+skillmate.egg-info/SOURCES.txt
+skillmate.egg-info/dependency_links.txt
+skillmate.egg-info/requires.txt
+skillmate.egg-info/top_level.txt

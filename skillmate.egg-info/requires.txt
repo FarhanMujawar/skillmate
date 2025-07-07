@@ -1,11 +1,9 @@
 openai
 langchain
-streamlit
 huggingface_hub
+streamlit
 python-dotenv
 sentence-transformers
 langgraph
 jinja2
-tavily-python  # or serper/google-search-wrapper
-
--e .
+tavily-python
