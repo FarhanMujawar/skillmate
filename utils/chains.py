@@ -1,5 +1,7 @@
 import os
-from langchain.chat_models import ChatOpenAI
+os.environ.pop("SSL_CERT_FILE", None)
+
+from langchain_community.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage
 from dotenv import load_dotenv
 load_dotenv()

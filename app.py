@@ -1,3 +1,5 @@
+import os
+os.environ.pop("SSL_CERT_FILE", None)
 import streamlit as st
 from graph.langgraph_config import build_graph
 
